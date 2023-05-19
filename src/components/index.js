@@ -1,0 +1,1 @@
+expect {default as Actor} from 'react';
